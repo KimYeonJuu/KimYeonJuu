@@ -1,8 +1,19 @@
 <p align="center"><img src="assets/banner.svg" width="100%" alt="Yeonju Kim | Ice Bear | Quantum Information × AI"></p>
 
-<p align="center"><b>양자정보와 AI 사이에서, 정보가 예측에 쓰이는 과정을 살펴봅니다.</b><br>국립한밭대학교 컴퓨터공학과 · AIM Lab. · UST·KISTI 양자정보 연구인턴</p>
+<p align="center"><b>양자정보와 AI를 연구합니다. 의료영상의 주파수 표현에서 양자·고전 하이브리드 모델로.</b><br>국립한밭대학교 컴퓨터공학과 · AIM Lab. · UST·KISTI 양자정보 연구인턴</p>
 
 <p align="center"><a href="https://kimyeonjuu.github.io">Research Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://kimyeonjuu.github.io/about.html">연구 이야기 ↗</a> &nbsp; · &nbsp; <a href="mailto:yeonjuk8@gmail.com">Email ↗</a></p>
+
+## Featured publication
+
+**SCIE 제1저자 · Pattern Recognition (Elsevier)**  
+**JCR Top 6.6% · Impact Factor 9.1** · 게재 승인 2026.09
+
+[Targeted Frequency Modulation for Robust Neonatal Respiratory Distress Classification](https://kimyeonjuu.github.io/research/tfm.html)
+
+<sub>제1저자, 공동 기여 표기. 2025 JCR · Engineering, Electrical & Electronic · JIF percentile 93.4 기준. [지표와 저자 표기 상세](https://kimyeonjuu.github.io/research/tfm.html#journal-metrics).</sub>
+
+[논문·기여·결과 ↗](https://kimyeonjuu.github.io/research/tfm.html) · [Code ↗](https://github.com/KimYeonJuu/Targeted-Frequency-Modulation-for-Robust-Neonatal-Respiratory-Distress-Classification) · [저자 증빙 ↗](assets/tfm-authors.png)
 
 ## Research path
 
