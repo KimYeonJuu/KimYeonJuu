@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Yeonju Kim | Quantum Information × AI | From representation to prediction"></p>
+<p align="center"><img src="assets/banner.svg" width="100%" alt="Yeonju Kim | Ice Bear | Quantum Information × AI"></p>
 
 <p align="center"><b>양자정보와 AI 사이에서, 정보가 예측에 쓰이는 과정을 살펴봅니다.</b><br>국립한밭대학교 컴퓨터공학과 · AIM Lab. · UST·KISTI 양자정보 연구인턴</p>
 
@@ -97,4 +97,7 @@
 
 처음에는 논문 속 방법을 구현하는 일이 가장 어려웠습니다. 지금은 구현 뒤의 결과를 설명하는 일이 더 어렵고 재미있습니다. 결과를 보고 다음에 확인할 것을 정하는 연구자가 되고 싶습니다.
 
-<sub>Updated 2026.10.08 · [Portfolio](https://kimyeonjuu.github.io) · [Email](mailto:yeonjuk8@gmail.com)</sub>
+<sub>Updated 2026.10.12 · [Portfolio](https://kimyeonjuu.github.io) · [Email](mailto:yeonjuk8@gmail.com)</sub>
+
+
+<sub>Banner adapted from [Ice Bear](https://github.com/songkong/Blog/tree/gh-pages) by Song Kong · MIT.</sub>
