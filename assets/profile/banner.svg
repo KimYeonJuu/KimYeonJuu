@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Yeonju Kim — Quantum Information × AI</title>
+<desc id="desc">Research profile in computer engineering, medical AI and quantum learning. Abstract quantum circuit and connected learning nodes.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f1f8fc"/><stop offset="1" stop-color="#d7eaf4"/></linearGradient>
+  <linearGradient id="orb" x2="0.8" y2="1"><stop stop-color="#d5f3f5"/><stop offset="1" stop-color="#b6d9ee"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#4c829d" opacity=".16"/></pattern>
+  <clipPath id="clip"><rect width="1280" height="360" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1280" height="360" fill="url(#bg)"/>
+<rect x="770" width="510" height="360" fill="url(#grid)"/>
+<path d="M810 0H1280V360H930Z" fill="#bddbe9" opacity=".23"/>
+<rect x="48" y="43" width="6" height="15" rx="3" fill="#198e9a"/>
+<text x="68" y="56" fill="#417084" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8">RESEARCH PORTFOLIO</text>
+<text x="46" y="150" fill="#15354b" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Yeonju Kim</text>
+<text x="50" y="200" fill="#185b71" font-family="Arial,sans-serif" font-size="29" font-weight="500">Quantum Information × AI</text>
+<path d="M50 236H707" stroke="#afcdda"/>
+<text x="50" y="270" fill="#4d6f82" font-family="Arial,sans-serif" font-size="17">Computer Engineering · Medical AI · Quantum Learning</text>
+<text x="50" y="316" fill="#5f7d8c" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.6">HANBAT NATIONAL UNIVERSITY   /   AIM LAB.   /   UST·KISTI</text>
+<circle cx="1024" cy="176" r="131" fill="url(#orb)" opacity=".68"/>
+<g fill="none" stroke="#89b9cb" stroke-width="1.3" opacity=".58">
+<ellipse cx="1024" cy="176" rx="131" ry="44" transform="rotate(-35 1024 176)"/>
+<ellipse cx="1024" cy="176" rx="131" ry="44" transform="rotate(55 1024 176)"/>
+<circle cx="1024" cy="176" r="131"/>
+</g>
+<g stroke="#5e8a9e" stroke-width="2" fill="none"><path d="M828 130H1040M828 180H1040M828 230H1040"/><path d="M954 130V230"/></g>
+<g font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#2b6177">
+<rect x="862" y="114" width="34" height="32" rx="6" fill="#f6fcff" stroke="#73a6bd"/><text x="879" y="136">H</text>
+<rect x="862" y="164" width="34" height="32" rx="6" fill="#f6fcff" stroke="#73a6bd"/><text x="879" y="186">R</text>
+<rect x="981" y="164" width="34" height="32" rx="6" fill="#f6fcff" stroke="#73a6bd"/><text x="998" y="186">R</text>
+</g>
+<circle cx="954" cy="130" r="5" fill="#1a7e92"/>
+<circle cx="954" cy="230" r="10" fill="#effbff" stroke="#1a7e92" stroke-width="2"/><path d="M948 230H960M954 224V236" stroke="#1a7e92" stroke-width="2"/>
+<g stroke="#5595a7" stroke-width="1.5" opacity=".6"><path d="M1040 130L1100 155M1040 180L1100 155M1040 230L1100 205M1040 180L1100 205M1100 155L1155 180M1100 205L1155 180"/></g>
+<g fill="#f0fcff" stroke="#25879a" stroke-width="2"><circle cx="1100" cy="155" r="9"/><circle cx="1100" cy="205" r="9"/><circle cx="1155" cy="180" r="12"/></g>
+<circle cx="1155" cy="180" r="4" fill="#25879a"/>
+<text x="1024" y="326" text-anchor="middle" fill="#668798" font-family="monospace" font-size="12" letter-spacing="2">CIRCUITS → REPRESENTATIONS</text>
+</g></svg>
