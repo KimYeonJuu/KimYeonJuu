@@ -1,11 +1,12 @@
+<!-- Banner layout inspired by https://github.com/Kyung-A/2020ver-portfolio; original SVG layout using the supplied portrait. -->
 <a href="https://kimyeonjuu.github.io/">
-  <img src="assets/profile/banner.svg" width="100%" alt="Yeonju Kim — Quantum Information × AI. Computer Engineering · Medical AI · Quantum Learning">
+  <img src="assets/profile/banner.png" width="100%" alt="김연주 — 양자정보와 AI를 연구합니다. 증명사진과 코럴·보라 그라데이션 배너">
 </a>
 
 <p align="center">
-  <a href="https://kimyeonjuu.github.io/"><img src="assets/profile/portfolio.svg" height="26" alt="Portfolio"></a>
-  <a href="https://kimyeonjuu.github.io/cv.html"><img src="assets/profile/cv.svg" height="26" alt="Curriculum Vitae"></a>
-  <a href="mailto:yeonjuk8@gmail.com"><img src="assets/profile/email.svg" height="26" alt="Email: yeonjuk8@gmail.com"></a>
+  <a href="#selected-research"><img src="assets/profile/nav-research.svg" width="32%" alt="Research · 연구 보기"></a>
+  <a href="#profile"><img src="assets/profile/nav-about.svg" width="32%" alt="About Me · 소개 보기"></a>
+  <a href="#skills--contact"><img src="assets/profile/nav-contact.svg" width="32%" alt="Contact · 연락처 보기"></a>
 </p>
 
 ## Profile
@@ -108,6 +109,12 @@ Accepted · 2026.09
 비교 실험 · 통계 검정 · 연구 시각화<br>
 TOEIC **780** <sub>(2026.08.23)</sub>
 
-✉️ **[yeonjuk8@gmail.com](mailto:yeonjuk8@gmail.com)** · [Portfolio](https://kimyeonjuu.github.io/) · [CV](https://kimyeonjuu.github.io/cv.html)
+<p>
+  <a href="https://kimyeonjuu.github.io/"><img src="assets/profile/portfolio.svg" height="26" alt="Portfolio"></a>
+  <a href="https://kimyeonjuu.github.io/cv.html"><img src="assets/profile/cv.svg" height="26" alt="Curriculum Vitae"></a>
+  <a href="mailto:yeonjuk8@gmail.com"><img src="assets/profile/email.svg" height="26" alt="Email"></a>
+</p>
+
+✉️ **[yeonjuk8@gmail.com](mailto:yeonjuk8@gmail.com)**
 
 <sub>Last updated · 2026.10.16</sub>
