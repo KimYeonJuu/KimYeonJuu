@@ -4,10 +4,12 @@
 </a>
 
 <p align="center">
-  <a href="#selected-research"><img src="assets/profile/nav-research.svg" width="32%" alt="Research · 연구 보기"></a>
-  <a href="#profile"><img src="assets/profile/nav-about.svg" width="32%" alt="About Me · 소개 보기"></a>
-  <a href="#skills--contact"><img src="assets/profile/nav-contact.svg" width="32%" alt="Contact · 연락처 보기"></a>
+  <a href="https://kimyeonjuu.github.io/#project"><img src="assets/profile/nav-research.svg" width="32%" alt="Project · 연구 보기"></a>
+  <a href="https://kimyeonjuu.github.io/#about"><img src="assets/profile/nav-about.svg" width="32%" alt="About Me · 소개 보기"></a>
+  <a href="https://kimyeonjuu.github.io/#contact"><img src="assets/profile/nav-contact.svg" width="32%" alt="Contact · 연락처 보기"></a>
 </p>
+
+<p align="center"><sub>메뉴를 누르면 포트폴리오 사이트에서 자세히 볼 수 있습니다.</sub></p>
 
 <a name="profile"></a>
 
