@@ -9,19 +9,58 @@
   <a href="#skills--contact"><img src="assets/profile/nav-contact.svg" width="32%" alt="Contact · 연락처 보기"></a>
 </p>
 
-## Profile
+<a name="profile"></a>
+
+<p><img src="assets/profile/heading-who.svg" height="32" alt="Who."></p>
+
+<img src="assets/profile/portrait-circle.png" align="left" width="25%" alt="김연주 증명사진">
+
+<p><img src="assets/profile/research-values.png" width="228" alt="설계 · 구현 · 실험 · 검증"></p>
 
 **김연주 · Yeonju Kim**<br>
-의료영상의 주파수 특징을 연구해 왔습니다. 지금은 양자 회로의 출력이 최종 예측에 어떻게 반영되는지 살펴보고 있습니다.
+국립한밭대학교 컴퓨터공학과 · 학사과정, 2023–현재<br>
+AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴
 
-<table>
-  <tr><td><b>Education</b></td><td>국립한밭대학교 컴퓨터공학과 · 학사과정, 2023–현재</td></tr>
-  <tr><td><b>Research</b></td><td>UST·KISTI 양자정보 연구인턴 · AIM Lab. 학부연구생</td></tr>
-  <tr><td><b>Academic</b></td><td>GPA <b>4.35 / 4.50</b> · 석차 <b>2 / 112</b> <sub>(2026-1 기준)</sub></td></tr>
-  <tr><td><b>Focus</b></td><td>Quantum Information · Quantum–Classical Models · Medical AI</td></tr>
-</table>
+의료영상의 주파수 특징을 연구해 왔습니다.<br>
+지금은 양자 회로가 최종 예측에 미치는 영향을 실험하고 있습니다.
 
-## Selected Research
+**Pattern Recognition · SCIE 제1저자\*** · 2026.09 게재 승인<br>
+<sub>* 공동 기여 표기 · [논문과 연구 내용 ↓](#selected-research)</sub>
+
+<br clear="all">
+
+GPA **4.35 / 4.50** · 석차 **2 / 112** <sub>(2026-1)</sub> · TOEIC **780** <sub>(2026.08.23)</sub><br>
+[CV ↗](https://kimyeonjuu.github.io/cv.html) · [의료영상 AI에서 양자정보로, 진로 로드맵 ↗](https://kimyeonjuu.github.io/journey.html)
+
+<a name="skills"></a>
+
+<p><img src="assets/profile/heading-skills.svg" height="32" alt="Skills."></p>
+
+<h4>AI & Computer Vision <img src="assets/profile/divider.svg" width="68%" height="1" alt=""></h4>
+
+<p>
+  <a href="https://github.com/KimYeonJuu/Targeted-Frequency-Modulation-for-Robust-Neonatal-Respiratory-Distress-Classification"><img src="assets/profile/skill-python.svg" width="104" alt="Python"></a>
+  <a href="https://github.com/KimYeonJuu/Targeted-Frequency-Modulation-for-Robust-Neonatal-Respiratory-Distress-Classification"><img src="assets/profile/skill-pytorch.svg" width="104" alt="PyTorch"></a>
+  <a href="https://kimyeonjuu.github.io/research/contrastive.html"><img src="assets/profile/skill-vision.svg" width="104" alt="Computer Vision"></a>
+  <a href="https://kimyeonjuu.github.io/research/tfm.html"><img src="assets/profile/skill-fft.svg" width="104" alt="Frequency Analysis"></a>
+  <a href="https://kimyeonjuu.github.io/research/contrastive.html"><img src="assets/profile/skill-contrastive.svg" width="104" alt="Contrastive Learning"></a>
+  <a href="https://kimyeonjuu.github.io/research/tfm.html"><img src="assets/profile/skill-statistics.svg" width="104" alt="Statistical Testing"></a>
+</p>
+
+<h4>Quantum Computing <img src="assets/profile/divider.svg" width="68%" height="1" alt=""></h4>
+
+<p>
+  <a href="https://kimyeonjuu.github.io/research/quantum.html"><img src="assets/profile/skill-circuit.svg" width="104" alt="Quantum Circuits"></a>
+  <a href="https://kimyeonjuu.github.io/research/quantum.html"><img src="assets/profile/skill-qaoa.svg" width="104" alt="QAOA"></a>
+  <a href="https://kimyeonjuu.github.io/research/quantum.html"><img src="assets/profile/skill-reupload.svg" width="104" alt="Data Re-uploading"></a>
+  <a href="https://kimyeonjuu.github.io/research/quantum.html"><img src="assets/profile/skill-hybrid.svg" width="104" alt="Quantum–Classical Hybrid Models"></a>
+</p>
+
+<sub>UST·KISTI 인턴십에서 학습·구현하며 실험 중인 연구 주제입니다. 아이콘을 누르면 관련 연구로 이동합니다.</sub>
+
+<a name="selected-research"></a>
+
+<p><img src="assets/profile/heading-research.svg" height="32" alt="Research."></p>
 
 ### Pattern Recognition · Elsevier
 
@@ -55,7 +94,9 @@ Accepted · 2026.09
 한국전기전자학회 논문지, 29(3), 289–296 · **공동제1저자** · 2025.09<br>
 [Paper ↗](https://doi.org/10.7471/ikeee.2025.29.3.289) · [연구 자세히 보기 ↗](https://kimyeonjuu.github.io/research/contrastive.html)
 
-## Research Experience
+<a name="research-experience"></a>
+
+<p><img src="assets/profile/heading-experience.svg" height="32" alt="Experience."></p>
 
 **의료영상 AI → 주파수 특징 연구 → 양자·고전 하이브리드 모델**<br>
 <sub>모델을 구현하고 비교 실험으로 확인하는 경험을 쌓아 양자정보·AI 연구로 이어가고 있습니다. [진로 로드맵 ↗](https://kimyeonjuu.github.io/journey.html)</sub>
@@ -67,7 +108,9 @@ Accepted · 2026.09
 | **연구과제** · 학생연구자<br><sub>2026.04–현재</sub> | 생성형 AI 기반 이미지 워터마킹 기술 연구 |
 | **연구과제** · 학생연구자<br><sub>2025.04–09</sub> | 사이버안보 정책 도메인에 적합한 대화형 AI 모델 연구 |
 
-## Awards
+<a name="awards"></a>
+
+<p><img src="assets/profile/heading-awards.svg" height="32" alt="Awards."></p>
 
 | Year | Award | Work |
 | :--- | :--- | :--- |
@@ -97,17 +140,9 @@ Accepted · 2026.09
 
 </details>
 
-## Skills & Contact
+<a name="skills--contact"></a>
 
-<p>
-  <img src="assets/profile/python.svg" height="28" alt="Python">
-  <img src="assets/profile/pytorch.svg" height="28" alt="PyTorch">
-  <img src="assets/profile/computer-vision.svg" height="28" alt="Computer Vision">
-  <img src="assets/profile/frequency-analysis.svg" height="28" alt="Frequency Analysis">
-</p>
-
-비교 실험 · 통계 검정 · 연구 시각화<br>
-TOEIC **780** <sub>(2026.08.23)</sub>
+<p><img src="assets/profile/heading-contact.svg" height="32" alt="Contact."></p>
 
 <p>
   <a href="https://kimyeonjuu.github.io/"><img src="assets/profile/portfolio.svg" height="26" alt="Portfolio"></a>
