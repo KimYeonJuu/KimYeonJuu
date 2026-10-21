@@ -112,6 +112,13 @@ AI가 추출한 영상 특징을 주파수별로 나눈 뒤 일부를 골라 조
 
 [논문 정보·초록 ↗](https://doi.org/10.7471/ikeee.2025.29.3.289)
 
+<details>
+<summary><b>게재 정보·공동제1저자 표기 확인</b></summary>
+
+<a href="assets/contrastive-authorship.png"><img src="assets/contrastive-authorship.png" width="760" alt="국내 학술지 논문 첫 페이지: 김연주·오서연의 공동 기여 표기와 2025년 9월 게재 정보"></a>
+
+</details>
+
 ---
 
 ### 연구인턴 · UST·KISTI
@@ -140,6 +147,15 @@ UST·KISTI 스쿨 · 지도교수 류정희
 | **연구과제** · 학생연구자<br><sub>2026.04.01–2026.10.31</sub> | 생성형 AI 기반 이미지 워터마킹 기술 연구 |
 | **연구과제** · 학생연구자<br><sub>2025.04.01–2025.09.30</sub> | 사이버안보 정책 도메인에 적합한 대화형 AI 모델 연구 |
 
+<details>
+<summary><b>두 연구과제의 참여기간·역할 증빙</b></summary>
+
+<a href="assets/research-projects.png"><img src="assets/research-projects.png" width="760" alt="한밭대학교 산학협력단 연구과제 실적증명서: 김연주, 두 과제의 참여기간과 학생연구자 역할, 발급일과 직인"></a>
+
+<sub>2026.10.02 발급 · 주민등록번호와 발급번호를 가린 공개용 발췌본입니다.</sub>
+
+</details>
+
 <a name="awards"></a>
 
 <p><img src="assets/profile/heading-awards.svg" height="32" alt="Awards."></p>
@@ -156,13 +172,17 @@ UST·KISTI 스쿨 · 지도교수 류정희
 <details>
 <summary><b>활동·성적 증빙 더 보기</b></summary>
 
-**UST·KISTI 스쿨·전공·지도교수**
+**UST·KISTI 장기인턴십 시스템**
 
-<a href="assets/ust-kisti.png"><img src="assets/ust-kisti.png" width="760" alt="UST 인턴십 지원 시스템에 표시된 KISTI 스쿨, 양자정보 전공과 지도교수"></a>
+<a href="assets/ust-kisti.png"><img src="assets/ust-kisti.png" width="760" alt="UST 장기인턴십 출석부 제출 화면에 표시된 김연주, KISTI 스쿨, 양자정보 전공과 지도교수"></a>
 
 **학업 성적**
 
 <a href="assets/academic-summary.png"><img src="assets/academic-summary.png" width="380" alt="평점 평균 4.35, 석차 2/112 성적 증빙"></a>
+
+**TOEIC · 780점**
+
+<a href="assets/toeic-score.png"><img src="assets/toeic-score.png" width="760" alt="김연주 TOEIC 성적표: 2026년 8월 23일, Listening 365점, Reading 415점, 총점 780점"></a>
 
 **소중한 SW·AI 경진대회 · AI 부문 3등**
 
