@@ -17,8 +17,8 @@
 
 <!-- Borderless fixed composition, rendered from assets/profile/introduction-source.html. -->
 <p><img src="assets/profile/introduction-bio.jpg" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
-**Pattern Recognition · SCIE 제1저자\*** · 2026.09 게재 승인<br>
-<sub>* 공동 기여 표기 · [논문과 연구 내용 ↓](#selected-research)</sub>
+<p><strong>Pattern Recognition · SCIE 제1저자*</strong> · 2026.09 게재 승인<br>
+<sub>* 공동 기여 표기 · <a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
 
 <details>
 <summary>자기소개 텍스트 보기</summary>
