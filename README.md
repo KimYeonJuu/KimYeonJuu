@@ -15,25 +15,27 @@
 
 <p><img src="assets/profile/heading-who.svg" height="32" alt="Who."></p>
 
-<img src="assets/profile/portrait-circle.png" align="left" width="25%" alt="김연주 증명사진">
-
+<table>
+<tr>
+<td width="25%" valign="top">
+<img src="assets/profile/portrait-circle.png" width="100%" alt="김연주 증명사진">
+</td>
+<td width="75%" valign="top">
 <p><img src="assets/profile/research-values.png" width="228" alt="설계 · 구현 · 실험 · 검증"></p>
-
-**김연주 · Yeonju Kim**<br>
+<p><strong>김연주 · Yeonju Kim</strong><br>
 국립한밭대학교 컴퓨터공학과 · 학사과정, 2023–현재<br>
-AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴
-
-**안녕하세요. 양자정보와 AI를 연구하는 김연주입니다.**<br>
+AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴</p>
+<p><strong>안녕하세요. 양자정보와 AI를 연구하는 김연주입니다.</strong><br>
 흉부 X-ray 분류 연구를 시작으로, 영상의 주파수 특징을 골라 조절하는 방법을 설계하고 실험해 왔습니다.<br>
-저는 성능이 얼마나 좋아졌는지만큼이나 무엇이 그 차이를 만들었는지 이해하는 것을 중요하게 생각합니다.
-
-지금은 UST·KISTI에서 AI 모델의 일부 계산을 양자 회로로 바꾸고, 기존 모델과 같은 조건에서 분류 성능을 비교하고 있습니다.
-
-앞으로는 양자컴퓨팅을 AI의 학습과 추론에 활용하는 연구를 이어가고 싶습니다.<br>
-어떤 문제에서 양자 계산이 도움이 되는지 직접 구현하고 확인하며, 실제로 쓸 수 있는 방법을 찾는 것이 제 목표입니다.
-
-**Pattern Recognition · SCIE 제1저자\*** · 2026.09 게재 승인<br>
-<sub>* 공동 기여 표기 · [논문과 연구 내용 ↓](#selected-research)</sub>
+저는 성능이 얼마나 좋아졌는지만큼이나 무엇이 그 차이를 만들었는지 이해하는 것을 중요하게 생각합니다.</p>
+<p>지금은 UST·KISTI에서 AI 모델의 일부 계산을 양자 회로로 바꾸고, 기존 모델과 같은 조건에서 분류 성능을 비교하고 있습니다.</p>
+<p>앞으로는 양자컴퓨팅을 AI의 학습과 추론에 활용하는 연구를 이어가고 싶습니다.<br>
+어떤 문제에서 양자 계산이 도움이 되는지 직접 구현하고 확인하며, 실제로 쓸 수 있는 방법을 찾는 것이 제 목표입니다.</p>
+<p><strong>Pattern Recognition · SCIE 제1저자*</strong> · 2026.09 게재 승인<br>
+<sub>* 공동 기여 표기 · <a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
+</td>
+</tr>
+</table>
 
 <br clear="all">
 
