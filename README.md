@@ -15,13 +15,13 @@
 
 <p><img src="assets/profile/heading-who.svg" height="32" alt="Who."></p>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-<img src="assets/profile/portrait-circle.png" width="100%" alt="김연주 증명사진">
-</td>
-<td width="75%" valign="top">
-<p><img src="assets/profile/research-values.png" width="228" alt="설계 · 구현 · 실험 · 검증"></p>
+<!-- Borderless fixed composition, rendered from assets/profile/introduction-source.html. -->
+<p><img src="assets/profile/introduction.jpg" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
+<p align="right"><sub><a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
+
+<details>
+<summary>자기소개 텍스트 보기</summary>
+
 <p><strong>김연주 · Yeonju Kim</strong><br>
 국립한밭대학교 컴퓨터공학과 · 학사과정, 2023–현재<br>
 AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴</p>
@@ -33,9 +33,8 @@ AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴</p>
 어떤 문제에서 양자 계산이 도움이 되는지 직접 구현하고 확인하며, 실제로 쓸 수 있는 방법을 찾는 것이 제 목표입니다.</p>
 <p><strong>Pattern Recognition · SCIE 제1저자*</strong> · 2026.09 게재 승인<br>
 <sub>* 공동 기여 표기 · <a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
-</td>
-</tr>
-</table>
+
+</details>
 
 <br clear="all">
 
