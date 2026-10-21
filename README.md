@@ -16,7 +16,7 @@
 <p><img src="assets/profile/heading-who.svg" height="32" alt="Who."></p>
 
 <!-- Borderless fixed composition, rendered from assets/profile/introduction-source.html. -->
-<p><img src="assets/profile/introduction.jpg?v=compact-20261021" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
+<p><img src="assets/profile/introduction-compact.jpg" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
 <p align="right"><sub><a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
 
 <details>
