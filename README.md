@@ -128,8 +128,27 @@ UST·KISTI 스쿨 · 지도교수 류정희
 
 **연구 주제: 양자 회로를 이용한 의료영상 분류**
 
-기존 AI 모델의 일부 계산을 양자 회로로 바꾸는 연구입니다.
-회로 깊이·데이터 재입력·얽힘 구조를 바꾸며 분류 결과를 비교하고 있습니다. 회로 내부에서 생긴 변화가 이후 AI 계산을 거쳐도 남는지 함께 살펴봅니다.
+흉부 X-ray 분류 모델에서 주파수를 고르는 계산과 채널별 가중치를 정하는 계산을 각각 양자 회로로 바꿔 비교하고 있습니다.<br>
+학습·평가 데이터에 같은 환자가 섞인 문제를 찾아 환자 단위로 다시 나누고 모델을 재평가했습니다.
+
+<a href="assets/quantum-method.png"><img src="assets/quantum-method.png" width="760" alt="15주차 활동보고서 4쪽: TFM의 주파수 선택과 채널 게이트를 각각 양자 회로로 대체한 두 실험 설정"></a>
+
+<sub>김연주 · UST·KISTI 15주차 활동보고서 4쪽 발췌</sub>
+
+<details>
+<summary><b>활동보고서 · 데이터 검증과 성능 비교</b></summary>
+
+**환자 단위 재분할 · 5쪽**
+
+<a href="assets/quantum-validation.png"><img src="assets/quantum-validation.png" width="760" alt="15주차 활동보고서 5쪽: 환자 중복을 제거한 학습·검증·평가 데이터 재분할과 재평가"></a>
+
+**3개 시드 성능 비교 · 6쪽**
+
+<a href="assets/quantum-results.png"><img src="assets/quantum-results.png" width="760" alt="15주차 활동보고서 6쪽: MedCLIP, 고전 TFM, 두 QAOA 모델의 성능과 별도 QAOA-SE 실험의 효율 분석"></a>
+
+<sub>QAOA 모델은 고전 TFM과 비슷한 성능을 보였습니다. MedCLIP 대비 일관된 정확도 우위는 확인하지 못했습니다. QAOA-SE의 파라미터 감소는 대부분 중간 차원을 48에서 4로 줄인 데서 발생했습니다.</sub>
+
+</details>
 
 ---
 
