@@ -16,8 +16,9 @@
 <p><img src="assets/profile/heading-who.svg" height="32" alt="Who."></p>
 
 <!-- Borderless fixed composition, rendered from assets/profile/introduction-source.html. -->
-<p><img src="assets/profile/introduction-compact.jpg" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
-<p align="right"><sub><a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
+<p><img src="assets/profile/introduction-bio.jpg" width="100%" alt="김연주 자기소개: 왼쪽 원형 사진, 오른쪽 설계·구현·실험·검증 키워드와 의료영상 AI·양자정보 연구 경험 및 목표. 아래에서 자기소개 텍스트를 펼쳐 읽을 수 있습니다."></p>
+**Pattern Recognition · SCIE 제1저자\*** · 2026.09 게재 승인<br>
+<sub>* 공동 기여 표기 · [논문과 연구 내용 ↓](#selected-research)</sub>
 
 <details>
 <summary>자기소개 텍스트 보기</summary>
@@ -26,8 +27,6 @@
 국립한밭대학교 컴퓨터공학과 · 학사과정, 2023–현재<br>
 AIM Lab. 학부연구생 · UST·KISTI 양자정보 연구인턴</p>
 <p><strong>안녕하세요. 양자정보와 AI를 연구하는 김연주입니다.</strong><br>흉부 X-ray 분류와 주파수 특징을 연구해 왔습니다.<br>지금은 UST·KISTI에서 AI 모델에 양자 회로를 적용하고 있습니다.<br>모델을 바꿨을 때 무엇이 달라지는지 직접 실험하고 확인합니다.<br>양자컴퓨팅을 AI의 학습과 추론에 활용하는 연구를 이어가고 싶습니다.</p>
-<p><strong>Pattern Recognition · SCIE 제1저자*</strong> · 2026.09 게재 승인<br>
-<sub>* 공동 기여 표기 · <a href="#selected-research">논문과 연구 내용 ↓</a></sub></p>
 
 </details>
 
